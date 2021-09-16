@@ -4,4 +4,4 @@ Moncode network coding library is an open source C library which is designed for
 ## 一、[Arithmetic algorithms(one-dimensional)](https://github.com/NJUPT-JunYin/Moncode/tree/master/Arithmetic%20algorithms)
 
 
-## 二、[One-dimensional α table method](https://github.com/yinjun111060880/Moncode)
+## 二、[Look-up table algorithm(two-dimensional)](https://github.com/NJUPT-JunYin/Moncode/tree/master/Look-up%20table%20algorithm)
